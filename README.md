@@ -109,7 +109,6 @@ To analyze and visualize **marketing performance metrics** across multiple chann
 - Evaluate regional sales and spending patterns  
 - Improve conversion rates and marketing efficiency
    
-🧠 *Skills:*  
 ## 🛠️ Tools & Technologies Used
 
 - **Power BI Desktop** – Dashboard creation and interactivity  
