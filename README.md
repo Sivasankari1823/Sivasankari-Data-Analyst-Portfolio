@@ -1,7 +1,7 @@
 # 👩‍💻 Sivasankari | Data Analyst & Business Intelligence Enthusiast
 
 Hi there! 👋  
-I’m **Sivasankari**, a passionate **Data Analyst / BI Analyst** who loves transforming raw data into meaningful insights that drive business decisions.  
+I’m **Sivasankari**, a passionate **Data Analyst / BI Analyst / Business Analyst** who loves transforming raw data into meaningful insights that drive business decisions.  
 I enjoy exploring datasets, building interactive dashboards, and automating workflows to make analytics faster, smarter, and more reliable.
 
 ---
@@ -82,6 +82,23 @@ To analyze and visualize customer and sales data across multiple dimensions — 
 📂 [🔗 View Project](https://github.com/Sivasankari1823/Customer-Segmentation-Dashboard)
 
 ---
+### 🟢 **5. Disease Case Analysis: Temporal, Geographic, and Environmental Trends (Python EDA)**
+📌 *Objective:*  
+- Analyse temporal trends of disease cases to detect seasonal patterns  
+- Identify geographic hotspots with high disease burden  
+- Study the relationship between environmental factors and disease cases  
+- Detect outbreak events using anomaly detection methods  
+- Generate actionable insights for public health planning  
+
+## 📊 **Visualizations**  
+
+- ⏳ **Time Series Plots**: Total cases per year, seasonal patterns
+- 🔥 **Heatmaps**: Cases by Month and Year, top 20 states/districts  
+- 📦 **Box Plots**: Seasonal temperature, precipitation, LAI distributions  
+- 🗺️ **Geo Scatter Plots**: District-level case concentration  
+- 🚨 **Outbreak Detection Scatter Plots**: Normal vs. Outbreak cases with extreme events highlighted 
+
+📂 [🔗 View Project](https://github.com/Sivasankari1823/-Disease-Outbreak-Analysis-in-India)
 
 ### 🟢 **4. Marketing Performance Analytics Project (Excel + Power BI)**
 📌 *Objective:*
