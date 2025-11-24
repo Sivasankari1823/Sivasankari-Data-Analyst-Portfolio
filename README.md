@@ -47,7 +47,7 @@ To develop an **interactive business intelligence dashboard** using Python and P
 - Identify business trends and seasonal patterns
 - Improve inventory and return management
 - Enable data-driven decision-making
-- 
+
 🧠 *Tech Stack:* Python (Pandas, Matplotlib, Seaborn), Power BI, DAX
 
 ## 🛠️ Tools & Technologies Used
