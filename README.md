@@ -1,42 +1,16 @@
-# 👩‍💻 Sivasankari | Manual Testing | Data Analyst
+# 👩‍💻 Sivasankari | Data Analyst & Business Intelligence Enthusiast
 
 Hi there! 👋  
-I’m Sivasankari, a System & Application Support Associate with skills in Manual Testing, SQL, Excel, and Data Analysis.
-
-I have hands-on experience in:
-- Application Support & Incident Management  
-- Manual Testing (Functional & Regression)  
-- Data Validation using SQL & Excel  
-- Building dashboards and analyzing business data  
-
-I enjoy troubleshooting application issues, ensuring system reliability, and using data-driven insights to support business decisions.
+I’m **Sivasankari**, a passionate **Data Analyst / BI Analyst / Business Analyst** who loves transforming raw data into meaningful insights that drive business decisions.  
+I enjoy exploring datasets, building interactive dashboards, and automating workflows to make analytics faster, smarter, and more reliable.
 
 ---
-## ⚙️ Technical Skills
-**🔹 Application Support:** Monitoring, Incident Management, Troubleshooting, Issue Resolution  
-**🔹 Testing:** Manual, Functional, Regression, Test Case Design, Bug Reporting  
-**🔹 Tools & Technologies:** Excel (Advanced), SQL, Power BI, JIRA  
-**🔹 API Testing:** Postman (REST APIs)  
-**🔹 Programming & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-**🔹 Automation (Basic):** Selenium  
-**🔹 Concepts:** SDLC, STLC, Data Validation, Data Cleaning, Root Cause Analysis, KPI Dashboards  
 
-## 🛠 Application Support & Testing Projects
-
-### 🔹 Application Support & Incident Management
-- Simulated real-time issue handling, incident tracking, and resolution  
-- Performed root cause analysis and prioritized incidents based on severity  
-- Ensured system availability and maintained service-level standards  
-
-### 🔹 Manual Testing – Web Application
-- Executed test cases for core functionalities (login, cart, checkout)  
-- Identified, documented, and tracked defects with clear reproduction steps  
-- Supported troubleshooting and ensured application stability across builds  
-
-### 🔹 Data Validation (SQL + Excel)
-- Validated backend data using SQL queries  
-- Identified missing values, duplicates, and inconsistencies  
-- Ensured data accuracy and supported reporting processes 
+## ⚙️ Technical Toolkit
+**🔹 Tools:** Power BI | Excel (Advanced) | Jupyter Notebook  
+**🔹 Languages:** Python | SQL  
+**🔹 Libraries:** Pandas | NumPy | Matplotlib | Seaborn  
+**🔹 Concepts:** Data Cleaning | Exploratory Data Analysis (EDA) | KPI Dashboards | Data Modeling | Statistical Analysis | DAX | Data Validation
 
 ---
 
@@ -148,15 +122,16 @@ To analyze and visualize **marketing performance metrics** across multiple chann
 ---
 
 ## 🚀 Learning in Progress
-- Application Support & Production Issue Handling  
-- SQL for Data Validation & QA Testing  
-- Power BI Service (Deployment & Sharing)  
-- Cloud Fundamentals (Azure / AWS Basics)  
+- ETL & Data QA Testing with SQL + Python  
+- Power BI Service (RLS, Gateway, and Deployment)  
+- Azure & Cloud Data Tools for scalable reporting  
+- Python Automation for Data Validation  
 
 ---
 
-## 🎯 Career Goal
-To build a career in Application Support, Testing, and Data Analysis by combining troubleshooting skills with data-driven insights to improve system performance and business outcomes.
+## 📊 Career Vision
+I aim to bridge the gap between **data engineering and analytics**, leveraging automation and BI to create faster insights and stronger business impact.  
+Curious by nature, I thrive on continuous learning and exploring the “why” behind the data.  
 
 ---
 
